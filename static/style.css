@@ -1,0 +1,50 @@
+body {
+    background: #32b6c2;
+    color: #f4f1de;
+    font-size: 100%;
+    font-family: 'Allura';
+}
+
+header {
+    margin: 3.5% 0 4%;
+}
+
+h1 {
+    text-align: center;
+    text-indent: -.12em;
+    color: #f4f1de;
+    font-family: 'Allura';
+    font-weight: 500;
+    display: inline-block;
+    margin: 0 auto;
+    line-height: 1;
+    width: 100%;
+    text-shadow: #287d85 .01em .01em 0, #287d85 .02em .02em 0, #287d85 .03em .03em 0, #287d85 .04em .04em 0, #287d85 .05em .05em 0, #287d85 .06em .06em 0, #287d85 .07em .07em 0, #287d85 .08em .08em 0, #287d85 .09em .09em 0, #287d85 .1em .1em 0;
+}
+
+h1 span.char4 {
+    letter-spacing: .05em;
+    margin-right: -.107em;
+}
+
+.char2 {
+    margin-right: .01em;
+}
+
+.char3 {
+    margin-right: -.01em;
+}
+
+.char6 {
+    margin-right: .035em;
+}
+
+::-moz-selection {
+    background: rgba(255, 255, 255, .3);
+    color: #fff;
+}
+
+::selection {
+    background: rgba(255, 255, 255, .3);
+    color: #fefcf2;
+}

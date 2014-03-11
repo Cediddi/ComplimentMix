@@ -1,0 +1,8 @@
+Flask==0.10.1
+Hamlish-Jinja==0.3.2
+Jinja2==2.7.2
+MarkupSafe==0.19
+Werkzeug==0.9.4
+argparse==1.2.1
+itsdangerous==0.23
+wsgiref==0.1.2
